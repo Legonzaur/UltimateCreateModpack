@@ -1,0 +1,1 @@
+<recipetype:botania:pure_daisy>.addRecipe("pure_daisy_test", <blockstate:mekanism:steam>, <blockstate:minecraft:water>, 20);
