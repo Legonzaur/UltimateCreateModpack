@@ -1,0 +1,1 @@
+<recipetype:create:pressing>.addRecipe("steel_plate", [<item:immersiveengineering:plate_steel>], <item:mekanism:ingot_steel>);
