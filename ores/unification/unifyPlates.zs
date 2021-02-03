@@ -1,10 +1,10 @@
 var uselessIngots = [
     <item:immersiveengineering:plate_copper>,
     <item:immersiveengineering:plate_lead>,
-    <item:immersiveengineering:plate_uranium>,
+    <item:immersiveengineering:plate_iron>,
+    <item:immersiveengineering:plate_gold>,
     <item:immersiveengineering:plate_electrum>,
     <item:immersiveengineering:plate_silver>,
-    <item:immersiveengineering:plate_steel>,
     <item:immersiveengineering:plate_constantan>,
     <item:immersiveengineering:plate_nickel>,
 ];
